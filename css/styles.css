@@ -796,6 +796,8 @@ section .image {
 
 .description_section > p {
   padding: 0 30px 15px;
+  font-size: 17px;
+  line-height: 25px;
 }
 
 /* social proof */
